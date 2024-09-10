@@ -13,6 +13,10 @@
 
 - 📫 How to reach me: **qaisarashraf685@gmail.com**
 
+
+[![An image of @qaisarmoin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qaisarmoin)](https://holopin.io/@qaisarmoin)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/qaisar-moin" target="blank">
